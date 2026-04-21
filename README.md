@@ -11,7 +11,6 @@ Proceso: Conjunto de operaciones para transformar datos en información útil (r
 
 Actividad Nº 1:
 Crucigrama con palabra claves. datos – información – analógicas – digitales – proceso.
-https://teachy.ai/es/my-resources
 
 Actividad Nº2:
 Experiencias prácticas en el aula:
