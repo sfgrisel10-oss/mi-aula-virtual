@@ -15,7 +15,7 @@ Crucigrama con palabra claves. datos – información – analógicas – digita
 Actividad Nº2:
 Experiencias prácticas en el aula:
 Registro de datos, dialogo a partir de los siguientes ejemplos
-Ver la hora: usar sensores analógicos como un reloj de pared y sensores digitales como dispositivos móviles: celular
+Ver la hora: usar sensores analógicos como un reloj de pared y sensores digitales como dispositivos móviles, celular.
 Grabar la voz: sensor analógico como un micrófono (proceso de digitalización) y sensor digital como una grabadora de voz  de un celular.
 
 Actividad Nº3:
