@@ -10,7 +10,7 @@ Información: Conjunto de datos procesados y organizados que tienen sentido o ut
 Proceso: Conjunto de operaciones para transformar datos en información útil (recopilación, organización, procesamiento, almacenamiento, transmisión y recuperación). La transformación de datos en información, o de señales analógicas a digitales, se realiza a través de procesos.  Ejemplo: Un sistema que ventas de un día y genera un informe de ingresos diarios.
 
 Actividad Nº 1:
-Crucigrama con palabra claves. datos – información – analógicas – digitales – proceso.
+Crucigrama con palabras claves. datos – información – analógicas – digitales – proceso.
 
 Actividad Nº2:
 Experiencias prácticas en el aula:
@@ -20,8 +20,8 @@ Grabar la voz: sensor analógico como un micrófono (proceso de digitalización)
 
 Actividad Nº3:
 Preguntas:
-¿En qué se diferencia un sistema digital de uno analógico? 
-¿Qué es una señal analógica y qué es una señal digital? Ejemplos. ¿Cuáles son sus ventajas y desventajas?
-¿Cómo se transforma un dato en información?.
-De 3 ejemplos actuales de procesos.
+1.¿En qué se diferencia un sistema digital de uno analógico?
+2.¿Qué es una señal analógica y qué es una señal digital? Ejemplos. ¿Cuáles son sus ventajas y desventajas?
+3.¿Cómo se transforma un dato en información?.
+4.De 3 ejemplos actuales de procesos.
 
