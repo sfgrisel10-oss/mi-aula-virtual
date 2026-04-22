@@ -1,40 +1,6 @@
 # mi-aula-virtual
-MOODLE:
-CURSO : Traduce Moodle Academy.
-Registro como alumno
-SECCIONES DEL CURSO (EN EL MENÚ LATERAL IZQUIERDO):
-Bienvenida
-    • Anuncios
-    • Acerca de este curso
-    • Foro general
-    • Cuestionario de preevaluación
-    • Glossary of Moodle translation terms
-Live sessions (Sesiones en vivo)
-    • Webinar recording 'Translate... (Grabación de webinar 'Traducir...)
-Moodle's multi-language f...(Funcionalidades multilingües de Moodle...)
-    • Moodle's multi-language fun... (Funcionalidades multilingües de Moodle...)
-    • Content translation plugin in... (Plugin de traducción de contenido en...)
-How to translate Moodle A... (Cómo traducir Moodle A...)
-    • Content Translation Plugin
-    • AMOS translation toolkit
-    • Video transcript translation
-    • TASK: Translate a video trans... (TAREA: Traducir una trans... de video)
-    • TASK: Contribute a translatio... (TAREA: Contribuir a una traduc...)
-Revisión
-    • Translate Moodle Acade... (Traducir Moodle Acade...)
-NAVEGACIÓN PRINCIPAL DE MOODLE.
-Página Principal, Área personal, Mis curso.
-Icono de : Búsqueda, notificaciones, Mensajes, Perfil de usuario
-ÁREA CENTRAL Y PRINCIPAL:
-Barra de Navegación:
-Curso, Información, Participantes, Calificaciones, Insignias, Mas.
-Actividades y contenidos: 
-Bienvenida. Introducción sobre la importancia de traducir Moodle y los requisitos del curso (nivel B2 de inglés). Mención de la obtención de una insignia "Translate Moodle Academy" y acceso a la página de traductores.
-Anuncios. Anuncios y noticias generales de los facilitadores del curso.
-Acerca de este curso: Descripción del curso, resultados de aprendizaje, estructura del curso y evaluación. Estado: Pendiente de hacer.
 
-
-
+    
 Curso: Sistemas Digitales de la Información. Introducción.
 3 er Año Nivel Secundario orientación Informática.
 
