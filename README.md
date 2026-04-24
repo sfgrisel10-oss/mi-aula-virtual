@@ -2,7 +2,7 @@
 
     
 Curso: Sistemas Digitales de la Información. Introducción.
-3 er Año Nivel Secundario orientación Informática.
+ Nivel Secundario orientación Informática.
 
 Conceptos
 Sistema digital de información: Conjunto de dispositivos y programas que permiten almacenar, procesar, transmitir y recuperar información en formato digital. La información es representada en valores discretos (por ejemplo, 0 y 1), siendo más eficiente, robusto y preciso
@@ -27,4 +27,3 @@ Preguntas:
 2.¿Qué es una señal analógica y qué es una señal digital? Ejemplos. ¿Cuáles son sus ventajas y desventajas?
 3.¿Cómo se transforma un dato en información?.
 4.De 3 ejemplos actuales de procesos.
-
