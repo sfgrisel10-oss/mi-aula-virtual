@@ -19,6 +19,7 @@ Diferenciar datos de información y explicar el proceso de transformación entre
 Aplicar conocimientos mediante actividades prácticas como crucigramas, registros de datos y análisis de ejemplos cotidianos (relojes, grabación de voz).
 Desarrollar habilidades para registrar, procesar y organizar datos en contextos reales, preparando para temas avanzados en informática
 
+
 Conceptos
 
 Sistema digital de información:
