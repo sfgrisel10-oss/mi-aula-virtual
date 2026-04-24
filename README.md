@@ -20,7 +20,9 @@ Aplicar conocimientos mediante actividades prácticas como crucigramas, registro
 Desarrollar habilidades para registrar, procesar y organizar datos en contextos reales, preparando para temas avanzados en informática
 
 Conceptos
-Sistema digital de información: Conjunto de dispositivos y programas que permiten almacenar, procesar, transmitir y recuperar información en formato digital. La información es representada en valores discretos (por ejemplo, 0 y 1), siendo más eficiente, robusto y preciso
+
+Sistema digital de información:
+Conjunto de dispositivos y programas que permiten almacenar, procesar, transmitir y recuperar información en formato digital. La información es representada en valores discretos (por ejemplo, 0 y 1), siendo más eficiente, robusto y preciso
 Señal analógica: Estas señales pueden tomar cualquier valor dentro de un rango determinado cambia suavemente a lo largo del tiempo. Susceptibles al ruido, por lo que pueden perder información. Ejemplo un termómetro de mercurio, donde la altura de la columna de mercurio varía de forma continua para indicar la temperatura. La información se representa de manera proporcional a la magnitud 
 Señal digital: Es discreta, solo puede tomar valores específicos, normalmente 0 y 1. Es menos susceptible a errores o ruidos, lo que la hace ideal para computadoras y comunicaciones modernas. Ejemplo Audio MP3, imagen JPG, etc
 Dato: Elemento primario, valor aislado o símbolo que por sí solo carece de significado. Ejemplo "25", "13:45", "Juan"
