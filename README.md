@@ -4,6 +4,16 @@
 Curso: Sistemas Digitales de la Información. Introducción.
  Nivel Secundario orientación Informática.
 
+Duración y enfoque: Módulo introductorio práctico para fomentar pensamiento computacional básico, alineado con currículo argentino.
+Objetivos del Curso
+Los objetivos buscan introducir a los estudiantes de nivel secundario en orientación Informática a los fundamentos de los sistemas digitales, fomentando la comprensión de cómo se maneja la información en el mundo computacional.
+Específicamente:
+Comprender los conceptos básicos de sistemas digitales de información, diferenciándolos de los analógicos.
+Identificar señales analógicas y digitales, sus características, ejemplos, ventajas y desventajas.
+Diferenciar datos de información y explicar el proceso de transformación entre ellos.
+Aplicar conocimientos mediante actividades prácticas como crucigramas, registros de datos y análisis de ejemplos cotidianos (relojes, grabación de voz).
+Desarrollar habilidades para registrar, procesar y organizar datos en contextos reales, preparando para temas avanzados en informática
+
 Conceptos
 Sistema digital de información: Conjunto de dispositivos y programas que permiten almacenar, procesar, transmitir y recuperar información en formato digital. La información es representada en valores discretos (por ejemplo, 0 y 1), siendo más eficiente, robusto y preciso
 Señal analógica: Estas señales pueden tomar cualquier valor dentro de un rango determinado cambia suavemente a lo largo del tiempo. Susceptibles al ruido, por lo que pueden perder información. Ejemplo un termómetro de mercurio, donde la altura de la columna de mercurio varía de forma continua para indicar la temperatura. La información se representa de manera proporcional a la magnitud 
