@@ -6,12 +6,12 @@ Curso: Sistemas Digitales de la Información. Introducción.
 
 Duración y enfoque:
 
-Módulo introductorio práctico para fomentar pensamiento computacional básico, alineado con currículo argentino.
-Objetivos del Curso.
+Módulo introductorio práctico para fomentar pensamiento computacional básico.
+
 
 Los objetivos:
 
-buscan introducir a los estudiantes de nivel secundario en orientación Informática a los fundamentos de los sistemas digitales, fomentando la comprensión de cómo se maneja la información en el mundo computacional.
+Buscar introducir a los estudiantes de nivel secundario en orientación Informática a los fundamentos de los sistemas digitales, fomentando la comprensión de cómo se maneja la información en el mundo computacional.
 Específicamente:
 Comprender los conceptos básicos de sistemas digitales de información, diferenciándolos de los analógicos.
 Identificar señales analógicas y digitales, sus características, ejemplos, ventajas y desventajas.
